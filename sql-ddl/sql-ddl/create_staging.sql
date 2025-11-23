@@ -1,0 +1,21 @@
+CREATE TABLE Staging_EducationCareer (
+    Student_ID             VARCHAR(10),
+    Age                    INT,
+    Gender                 VARCHAR(20),
+    High_School_GPA        DECIMAL(3,2),
+    SAT_Score              INT,
+    University_GPA         DECIMAL(3,2),
+    Field_of_Study         VARCHAR(100),
+    Internships_Completed  INT,
+    Projects_Completed     INT,
+    Certifications         INT,
+    Soft_Skills_Score      INT,
+    Networking_Score       INT,
+    Job_Offers             INT,
+    Starting_Salary        INT,
+    Career_Satisfaction    INT,
+    Years_to_Promotion     INT,
+    Current_Job_Level      VARCHAR(50),
+    Work_Life_Balance      INT,
+    Entrepreneurship       VARCHAR(10)
+);
