@@ -100,25 +100,25 @@ Example insights:
 ### 📊 Example Results
 
 #### Average Salary by Field
-![Avg Salary](screenshots/avg_salary_by_field.png)
+![Avg Salary](results/avg_salary_by_field.png)
 
 #### Internships vs Job Offers
-![Internships vs Offers](screenshots/internships_vs_joboffers.png)
+![Internships vs Offers](results/internships_vs_joboffers.png)
 
 #### GPA vs Salary Sample
-![GPA Salary](screenshots/gpa_salary_sample.png)
+![GPA Salary](results/gpa_salary_sample.png)
 
 ### 🔥 Correlation Heatmap
-![Correlation](screenshots/correlation_heatmap.png)
+![Correlation](results/correlation_heatmap.png)
 
 ### 💰 Salary Distribution
-![Salary Distribution](screenshots/salary_distribution.png)
+![Salary Distribution](results/salary_distribution.png)
 
 ### 📄 Sample SQL Output
-![SQL Style Preview](screenshots/sql_style_preview.png)
+![SQL Style Preview](results/sql_style_preview.png)
 
 ### 📊 Avg Salary by Field of Study
-![Dashboard Chart](screenshots/dashboard_salary_by_field.png)
+![Dashboard Chart](results/dashboard_salary_by_field.png)
 
 
 ## 🚀 Next Steps
